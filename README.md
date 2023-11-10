@@ -38,6 +38,18 @@ asse
 
 
 
+![t1](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/01f61ca9-5761-46eb-aac5-ba41837441b1)
+![t2](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/bf9dd97c-78ab-4ab4-b223-af300864e649)
+![t3](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/f62368ab-382d-41e6-9387-9ddb68429a4d)
+![t4](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/c535e689-f628-4ed1-a683-d2521cd359c7)
+![t5](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/8111dadf-c4f0-4ed6-a754-75685304ae14)
+![t6](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/0b82cc01-83a6-4fed-831e-46f1b0146dab)
+![t7](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/fd8154ae-6411-4e81-a06f-51b7f9eaf441)
+![t8](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/5daded47-3eda-4d33-b618-6768437b98e1)
+![t9](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/97c6db3c-1fc1-4666-98b3-57236e2a381b)
+![t10](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/a8f5e458-cc7d-46c6-8883-51f6cc1baafe)
+![t11](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/28135299-4b01-4ff9-b564-0ea5e380d595)
+![t12](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/29a46bd4-384e-45c7-96ea-2e6300635aac)
 
 
 
