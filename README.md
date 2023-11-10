@@ -19,23 +19,6 @@ one/assets
 ![11](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/ced505b8-f75f-43e2-b970-b3b0053b610a)
 ![12](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/bfcc5ec6-b62d-4f7d-bc21-52ba7d1c5a96)
 
-![t1](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/b21e1712-1062-42a9-9a73-24373c11a9af)
-![t2](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/6d992084-e4d0-4222-8bf2-04c5aba2e030)
-![t3](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/c9b3aab2-c23d-4bae-98ed-028dab005078)
-![t4](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/12140fe2-eae9-40d9-88ba-1624d02bb7c3)
-![t5](https://github.com/SudiptaPandaa/Disney-Hotstar-C
-![t6](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/asse
-![t7](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/ca29616e-7c5d-4496-8d14-06492efe6d32)
-ts/13681
-![t8](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/7f0dec3d-d65e-4011-bcc3-636c55c9faaa)
-4605/1e3b631c-6913-4a85-b9a7-ac00bc381900)
-lone/assets/1
-![t9](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/76d765bc-801b-4e17-8763-0ad275a820b1)
-36814605/56ab0ac1-7621-46e8-9cd2-21aceb95f675)
-![t10](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone
-![t11](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/bd24921f-891a-4e64-8f31-30229e53cf62)
-/assets/136814605/c3b46eb3-b93b-4a45-b702-5f294d2b880d)
-![t12](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/8ab3b0a4-1210-4683-bcee-d4a7badd9aae)
 
 
 ![p1](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/c56de5c1-3d3c-4b2b-b94b-d67e1a42a203)
@@ -52,4 +35,6 @@ asse
 ![p10](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/449da14b-44d2-47a0-9f53-83d49c70e4eb)
 ![p11](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/d4a11453-9bc8-4cdf-87c7-57817f352697)
 ![p12](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/56058fcc-c422-449f-b174-363fe2b53d93)
+
+
 
