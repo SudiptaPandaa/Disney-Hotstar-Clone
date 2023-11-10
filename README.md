@@ -53,6 +53,18 @@ asse
 
 
 
+![geography](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/f92b3699-39b6-455a-8250-347d2ca4079b)
+![add](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/6468c0e1-1fa5-48eb-9af4-fc5b8e02084a)
+![play](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/d689aeb5-881e-4a88-85ad-ea7eb155ae09)
+![disney](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/6cdccef3-d8c1-4c88-a302-708f917eaa42)
+![logo](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/fe5328eb-261f-43a6-bf70-eff12afcac13)
+![marvel](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/f20eb2e9-beec-4074-bde4-2b22e6f840a9)
+![next](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/9a1218d9-cb4a-45bc-a15b-5810bca78ba8)
+![pixar](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/a1c1b075-0ae7-48ab-b4ab-2c78068b61e2)
+![pre](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/384502cb-7b26-4696-8ee9-af0c3847da64)
+![star-wars](https://github.com/SudiptaPandaa/Disney-Hotstar-Clone/assets/136814605/de856f90-df16-4043-a4ca-6876242da044)
+
+
 
 
 
